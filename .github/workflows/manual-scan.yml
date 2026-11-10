@@ -24,7 +24,7 @@ on:
         description: '最大扫描仓库数（仅auto模式有效）'
         required: false
         type: number
-        default: 50
+        default: 10
       
       create_issue:
         description: '发现问题时是否创建Issue'
